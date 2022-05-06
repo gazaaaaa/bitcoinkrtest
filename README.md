@@ -4,7 +4,7 @@
 
 언제든 삭제가 가능하기에 마음 편하게 활용해보실 수 있습니다.
 
-[Wiki](https://github.com/bitcoinkrorg/bitcoinkrtest/wiki) 란을 꼭 읽어보세요.
+위의 메뉴에서 Wiki를 클릭 혹은 직접 [Wiki](https://github.com/bitcoinkrorg/bitcoinkrtest/wiki)로 이동하셔서 사용법을 배워보세요.
 
 
 
